@@ -1,0 +1,5 @@
+com/senai/sd/criptoass/AssinadorServer.class
+com/senai/sd/criptoass/service/EncriptaPDF.class
+com/senai/sd/criptoass/AssinadorInterface.class
+com/senai/sd/criptoass/AssinadorInterfaceImpl.class
+com/senai/sd/criptoass/service/DecriptaPDF.class
